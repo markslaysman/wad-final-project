@@ -1,5 +1,6 @@
 // REACT imports
 import { Routes, Route } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // My imports
 import HomePage from './pages/Home';
