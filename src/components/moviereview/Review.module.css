@@ -1,0 +1,20 @@
+.reviewdata {
+	display: flex;
+}
+
+.reviewerinfo {
+	display: flex;
+	flex-direction: column;
+
+	margin: 10px 10px 10px 10px;
+	border: 0px;
+	padding: 0px 5px 0px 0px;
+
+	border-right: 2px solid black;
+}
+
+.reviewtext {
+	margin: 10px 10px 10px 10px;
+	border: 0px;
+	padding: 0px;
+}

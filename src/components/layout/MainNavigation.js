@@ -12,8 +12,8 @@ function MainNavigation() {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="/">Home</Nav.Link>
-                        <Nav.Link href="/page1">Page 1</Nav.Link>
-                        <Nav.Link href="/page2">Page 2</Nav.Link>
+                        <Nav.Link href="/housescrud">Houses-CRUD</Nav.Link>
+                        <Nav.Link href="/moviereview">Moview Review</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

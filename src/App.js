@@ -4,8 +4,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 // My imports
 import HomePage from './pages/Home';
-import Page1 from './pages/Page1';
-import Page2 from './pages/Page2';
+import HousesPage from './pages/HousesPage';
+import MoviesPage from './pages/MoviesPage';
 import Layout from './components/layout/Layout';
 
 function App() {
@@ -14,8 +14,8 @@ function App() {
       <Layout>
         <Routes>
           <Route path='/' element={<HomePage />} />
-          <Route path='/page1' element={<Page1 />} />
-          <Route path='/page2' element={<Page2 />} />
+          <Route path='/housescrud' element={<HousesPage />} />
+          <Route path='/moviereview' element={<MoviesPage />} />
         </Routes>
       </Layout>
     </div>
