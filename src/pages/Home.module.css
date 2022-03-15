@@ -1,0 +1,7 @@
+.pageInfoContainer {
+    width: 50vw;
+    margin: auto;
+    display: flex;
+    align-self: center;
+    padding: 30px 0px 0px 0px;
+}
